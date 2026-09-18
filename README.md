@@ -1,7 +1,7 @@
 # Well hello there, fellow humans!
 I'm Iris, a Spanish web development student & 2D artist who always tries her best!
 
-<img src="wooper.png" alt="A shiny Pokémon encounter!" width="48">
+<img src="wooper.png" alt="A shiny Pokémon encounter!" width="100">
 
 ## I'm currently learning... ⭐
 - Java (my true love and also my enemy)
