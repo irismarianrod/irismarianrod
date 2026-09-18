@@ -1,5 +1,23 @@
-## Hi there 👋
+# Well hello there, fellow humans!
+I'm Iris, a Spanish web development student & 2D artist who always tries her best!
 
+## I'm currently learning... ⭐
+- Java (my true love and also my enemy)
+- HTML5/CSS
+- JavaScript
+- SQL (SQL Developer, MySQL)
+- Python
+- PHP
+- Shell Bash
+- Git & GitHub
+- XML (DTD, XSLT, XSD, BaseX)
+- Docker
+
+## I'm interested in... 🦐
+- UX/UI design
+- Interactive websites
+- Videogame design & development
+- 2D & 3D Animation
 <!--
 **irismarianrod/irismarianrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
