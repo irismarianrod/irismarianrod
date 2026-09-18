@@ -1,4 +1,4 @@
-# Well hello there, fellow humans!
+# Hello there, fellow humans!
 I'm Iris, a Spanish web development student & 2D artist who always tries her best!
 
 <img src="wooper.png" alt="A shiny Pokémon encounter!" width="100">
