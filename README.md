@@ -15,7 +15,7 @@ I'm Iris, a Spanish web development student & 2D artist who always tries her bes
 - XML (DTD, XSLT, XSD, BaseX)
 - Docker
 
-<img src="wooper2.png" alt="A shiny Pokémon encounter!" width="100">
+<img src="wooper2.png" alt="A shiny Pokémon encounter!" width="130">
 
 ## I'm interested in... 🦐
 - UX/UI design
