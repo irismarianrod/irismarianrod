@@ -2,7 +2,7 @@
 I'm Iris, a Spanish web development student & 2D artist who always tries her best!
 
 <picture>
- <img alt="A shiny Pokémon encounter!" src="irismarianrod/descarga (7).png">
+ <img alt="A shiny Pokémon encounter!" src="irismarianrod/wooper.png">
 </picture>
 
 ## I'm currently learning... ⭐
